@@ -1,0 +1,6 @@
+millionbatch/BatchConfiguration.class
+millionbatch/JobCompletionNotificationListener.class
+millionbatch/PersonItemProcessor.class
+millionbatch/PersonMapper.class
+millionbatch/BatchProcessingApplication.class
+millionbatch/Person.class
